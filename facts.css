@@ -1,0 +1,27 @@
+#header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+body {
+    background-color: cadetblue;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+
+
+#fact-text1 {
+    align-items: center;
+    text-align: center;
+}
+
+div {
+    border: 10px ridge rgb(10, 143, 83);
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
