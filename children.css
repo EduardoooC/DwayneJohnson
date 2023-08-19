@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+#header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+#header2 {
+    border: 10px ridge rgb(10, 143, 83);
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#bio {
+    font-size: large;
+    width: 500px;
+    margin: auto;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+img {
+    width: 400px;
+}
